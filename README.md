@@ -16,6 +16,7 @@ The dataset contains 5,000 e-commerce transactions with information including:
 - Region
 - Quantity
 - Unit price
+
 - Discount
 - Payment method
 - Delivery days
